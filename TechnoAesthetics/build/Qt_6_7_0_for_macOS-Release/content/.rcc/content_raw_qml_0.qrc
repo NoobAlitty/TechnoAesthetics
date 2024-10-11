@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/App.qml</file>
+    <file alias="LoginView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/LoginView.qml</file>
+    <file alias="RegisterView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/RegisterView.qml</file>
+    <file alias="components/VisualInspectionSystem.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/VisualInspectionSystem.qml</file>
+    <file alias="components/HomeView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/HomeView.qml</file>
+    <file alias="components/DialogItem.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/DialogItem.qml</file>
+    <file alias="components/VerificationCodeItem.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/VerificationCodeItem.qml</file>
+    <file alias="components/TUserAvatar.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TUserAvatar.qml</file>
+    <file alias="components/TNavigationButton.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TNavigationButton.qml</file>
+    <file alias="components/TMessageView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TMessageView.qml</file>
+    <file alias="components/TContactView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TContactView.qml</file>
+    <file alias="components/TCircleView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TCircleView.qml</file>
+    <file alias="components/TChatView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TChatView.qml</file>
+    <file alias="components/TCircleDetailView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TCircleDetailView.qml</file>
+    <file alias="components/TContactInfoView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TContactInfoView.qml</file>
+    <file alias="components/TImage.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TImage.qml</file>
+    <file alias="components/TSettingsList.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TSettingsList.qml</file>
+    <file alias="components/TSettingsDetails.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TSettingsDetails.qml</file>
+    <file alias="components/TSettingItem.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TSettingItem.qml</file>
+    <file alias="components/TChatPrivateView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TChatPrivateView.qml</file>
+    <file alias="components/TChatGroupView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/components/TChatGroupView.qml</file>
+    <file alias="fonts/fonts.txt">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/fonts/fonts.txt</file>
+    <file alias="assets/login.jpg">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/login.jpg</file>
+    <file alias="assets/icon.jpg">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/icon.jpg</file>
+    <file alias="assets/register.png">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/register.png</file>
+    <file alias="assets/homepage.jpeg">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/homepage.jpeg</file>
+    <file alias="assets/avatar.jpg">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/avatar.jpg</file>
+    <file alias="assets/message.jpg">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/message.jpg</file>
+    <file alias="assets/circle.png">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/circle.png</file>
+    <file alias="assets/contact.jpg">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/contact.jpg</file>
+    <file alias="assets/ImageProcess.png">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/ImageProcess.png</file>
+    <file alias="assets/setting.png">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/setting.png</file>
+    <file alias="assets/sendMessage.mp3">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/sendMessage.mp3</file>
+    <file alias="assets/receiveMessage.mp3">/Users/alitty/Documents/GitRepo/TechnoAesthetics/content/assets/receiveMessage.mp3</file>
+  </qresource>
+</RCC>
+

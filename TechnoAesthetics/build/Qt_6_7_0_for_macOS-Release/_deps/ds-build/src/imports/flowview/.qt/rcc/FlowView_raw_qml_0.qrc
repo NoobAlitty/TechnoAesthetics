@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/FlowView/">
+    <file alias="DefaultFlowEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/DefaultFlowEffect.qml</file>
+    <file alias="SwipeInteraction.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/SwipeInteraction.qml</file>
+    <file alias="FlowEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowEffect.qml</file>
+    <file alias="FlowFadeEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowFadeEffect.qml</file>
+    <file alias="FlowPushLeftEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowPushLeftEffect.qml</file>
+    <file alias="FlowPushRightEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowPushRightEffect.qml</file>
+    <file alias="FlowSlideDownEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowSlideDownEffect.qml</file>
+    <file alias="FlowSlideLeftEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowSlideLeftEffect.qml</file>
+    <file alias="FlowSlideRightEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowSlideRightEffect.qml</file>
+    <file alias="FlowSlideUpEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowSlideUpEffect.qml</file>
+    <file alias="FlowMoveEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowMoveEffect.qml</file>
+    <file alias="FlowPushEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowPushEffect.qml</file>
+    <file alias="FlowTransition.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowTransition.qml</file>
+    <file alias="FlowTransitionList.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowTransitionList.qml</file>
+    <file alias="FlowView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowView.qml</file>
+    <file alias="FlowPushUpEffect.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowPushUpEffect.qml</file>
+    <file alias="FlowItem.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowItem.qml</file>
+    <file alias="FlowDecision.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowDecision.qml</file>
+    <file alias="FlowWildcard.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowWildcard.qml</file>
+    <file alias="FlowActionArea.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowActionArea.qml</file>
+    <file alias="FlowState.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/FlowState.qml</file>
+    <file alias="+DesignMode/FlowItem.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/+DesignMode/FlowItem.qml</file>
+    <file alias="+DesignMode/FlowView.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/+DesignMode/FlowView.qml</file>
+    <file alias="qmldir">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/qmldir</file>
+  </qresource>
+</RCC>
+

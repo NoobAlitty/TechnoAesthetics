@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/TechnoAesthetics/">
+    <file alias="Constants.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/imports/TechnoAesthetics/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/imports/TechnoAesthetics/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/imports/TechnoAesthetics/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/imports/TechnoAesthetics/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

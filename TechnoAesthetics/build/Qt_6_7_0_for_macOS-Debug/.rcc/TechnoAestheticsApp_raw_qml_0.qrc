@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Main/">
+    <file alias="main.qml">/Users/alitty/Documents/GitRepo/TechnoAesthetics/main.qml</file>
+  </qresource>
+</RCC>
+

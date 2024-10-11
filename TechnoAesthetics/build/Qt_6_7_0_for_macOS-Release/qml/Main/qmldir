@@ -1,0 +1,4 @@
+module Main
+typeinfo TechnoAestheticsApp.qmltypes
+prefer :/qt/qml/Main/
+

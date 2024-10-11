@@ -1,0 +1,71 @@
+{
+    "classes": [
+        {
+            "className": "SpeechSynthesis",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "sig",
+                            "type": "SignalListener*"
+                        }
+                    ],
+                    "name": "setSignal",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "q",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "voiceName",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "playSpeech",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "SpeechSynthesis",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "speechFinished",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "reply",
+                            "type": "QNetworkReply*"
+                        }
+                    ],
+                    "name": "handleResponse",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "SpeechSynthesis.hpp",
+    "outputRevision": 68
+}

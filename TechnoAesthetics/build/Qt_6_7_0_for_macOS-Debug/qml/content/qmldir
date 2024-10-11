@@ -1,0 +1,30 @@
+module content
+linktarget contentplugin
+optional plugin contentplugin
+classname contentPlugin
+typeinfo content.qmltypes
+prefer :/qt/qml/content/
+App 1.0 App.qml
+LoginView 1.0 LoginView.qml
+RegisterView 1.0 RegisterView.qml
+HomeView 1.0 components/HomeView.qml
+DialogItem 1.0 components/DialogItem.qml
+VerificationCodeItem 1.0 components/VerificationCodeItem.qml
+DataEditDialog 1.0 components/DataEditDialog.qml
+TNavigationButton 1.0 components/TNavigationButton.qml
+TMessageView 1.0 components/TMessageView.qml
+TContactView 1.0 components/TContactView.qml
+TAIView 1.0 components/TAIView.qml
+TChatView 1.0 components/TChatView.qml
+TChatAIView 1.0 components/TChatAIView.qml
+TContactInfoView 1.0 components/TContactInfoView.qml
+TImage 1.0 components/TImage.qml
+TSettingsList 1.0 components/TSettingsList.qml
+TSettingsDetails 1.0 components/TSettingsDetails.qml
+TSettingItem 1.0 components/TSettingItem.qml
+TChatPrivateView 1.0 components/TChatPrivateView.qml
+TChatGroupView 1.0 components/TChatGroupView.qml
+TextContent 1.0 components/TextContent.qml
+ImageContent 1.0 components/ImageContent.qml
+FriendView 1.0 components/FriendView.qml
+

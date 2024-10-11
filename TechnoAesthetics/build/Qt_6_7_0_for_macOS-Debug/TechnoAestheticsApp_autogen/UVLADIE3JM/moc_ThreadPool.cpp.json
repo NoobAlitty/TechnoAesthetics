@@ -1,0 +1,41 @@
+{
+    "classes": [
+        {
+            "className": "ThreadPool",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "opt",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "create",
+                    "returnType": "TaskBase*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "task",
+                            "type": "TaskBase*"
+                        }
+                    ],
+                    "name": "add",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "ThreadPool",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ThreadPool.hpp",
+    "outputRevision": 68
+}

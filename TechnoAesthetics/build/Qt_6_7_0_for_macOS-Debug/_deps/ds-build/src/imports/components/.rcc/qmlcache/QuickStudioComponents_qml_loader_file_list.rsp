@@ -1,0 +1,17 @@
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/_deps/ds-build/src/imports/components/.qt/rcc/qmake_QtQuick_Studio_Components.qrc
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/_deps/ds-build/src/imports/components/.qt/rcc/QuickStudioComponents_raw_qml_0.qrc
+/qt-project.org/imports/QtQuick/Studio/Components/ArcItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/PieItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/TriangleItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/SvgPathItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/EllipseItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/FlipableItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/RectangleItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/RegularPolygonItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/BorderItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/IsoItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/GroupItem.qml
+/qt-project.org/imports/QtQuick/Studio/Components/ArcArrow.qml
+/qt-project.org/imports/QtQuick/Studio/Components/StraightArrow.qml

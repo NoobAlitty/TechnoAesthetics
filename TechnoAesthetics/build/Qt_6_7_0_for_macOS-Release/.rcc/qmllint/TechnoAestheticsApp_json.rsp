@@ -1,0 +1,16 @@
+--bare
+-I
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release
+-I
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/qml
+-I
+/Users/alitty/Qt/6.7.1/macos/./qml
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/.qt/rcc/configuration.qrc
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/.qt/rcc/qmake_Main.qrc
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/.qt/rcc/TechnoAestheticsApp_raw_qml_0.qrc
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/main.qml
+--json
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/TechnoAestheticsApp_qmllint.json

@@ -1,0 +1,176 @@
+import QtQuick 6.2
+import QtQuick.Controls 6.2
+import TechnoAesthetics
+import QtQuick3D 6.2
+import Qt.labs.platform 1.1
+
+Rectangle {
+    CommonFunctions {
+        id: cf
+        width: parent.width
+        height: parent.height
+    }
+    width: 1920
+    height: 1080
+    id: homepage
+    // 背景图像
+    Image {
+        anchors.fill: parent // 使图片铺满整个父元素
+        fillMode: Image.Stretch // 图片将被拉伸以填充矩形区域
+        source: "file:///E:/Images/1.jpg"
+    }
+    ComboBox {
+        id: comboBox1
+        x: 864
+        y: 600
+        width: 139
+        height: 69
+        model: ["Red","Green","Blue"]
+        onCurrentTextChanged: {
+            if(comboBox.currentText==="Single")
+                processImage()
+        }
+    }
+    Item {
+        id: __materialLibrary__
+    }
+    Text {
+        id: text1
+        x: 814
+        y: 90
+        opacity: 1
+        color: "#c760ec"
+        text: qsTr("Image processing with powerful OpenCV")
+        font.pixelSize: 12
+        scale: 3.931
+    }
+    Slider {
+        id: scaleSlider
+        x: 579
+        y: 196
+        width: 300
+        from: 0.1  // 最小缩放级别
+        to: 1.9  // 最大缩放级别
+        stepSize: 0.1  // 每次改变的缩放级别步长
+        value: 1.0  // 初始缩放级别
+         onValueChanged: processImage()
+    }
+    function processImage() {
+        console.log(lastAcceptedFile)
+        // 如果还没有文件被成功打开，则弹出提示并返回
+        if (fileDialog.lastAcceptedFile === "") {
+            cf.dialog("Please Open a file at first!")
+            return;
+        }
+        var fileUrl = fileDialog.lastAcceptedFile  // 使用 lastAcceptedFile 而不是 fileDialog.file
+
+        // 现在我们知道 fileUrl 是有效的，可以进行图像处理
+        image.source = fileUrl
+        var scaleValue=scaleSlider.value
+        if(scaleValue>1)scaleValue=1+(scaleValue-1)*4
+        if(comboBox.currentText ==="None")
+            image1.source = imageProcessor.none(fileUrl.toString().replace("file:///", ""),scaleValue)
+        else if(comboBox.currentText ==="Enhance")
+            image1.source = imageProcessor.enhanceColor(fileUrl.toString().replace("file:///", ""),scaleValue)
+        else if(comboBox.currentText ==="ToHSV")
+            image1.source = imageProcessor.convertToHSV(fileUrl.toString().replace("file:///", ""),scaleValue)
+        else if(comboBox.currentText ==="Single")
+            image1.source = imageProcessor.convertToSingleChannel(fileUrl.toString().replace("file:///", ""),comboBox1.currentText,scaleValue)
+    }
+
+    FileDialog {
+        property string lastAcceptedFile: "" // 创建一个新属性来存储最后一次成功打开的文件路径
+        id: fileDialog
+        title: "Please choose an image"
+        nameFilters: ["Image files (*.jpg *.jpeg *.png *.bmp)", "All files (*)"] // 仅显示图片文件
+        onAccepted: {
+            lastAcceptedFile = fileDialog.file
+            processImage()
+        }
+        onRejected: {
+            // 这里可以添加一些操作，例如设置图片为默认图片
+        }
+    }
+
+    ComboBox {
+        id: comboBox
+        x: 389
+        y: 190
+        flat: false
+        scale: 1.6
+        model: ["None","Enhance", "ToHSV","Single"]
+        onCurrentTextChanged: processImage()
+    }
+
+    ToolButton {
+        id: toolButton
+        x: 941
+        y: 200
+        text: qsTr("Upload")
+        contentItem: Text {
+            text: toolButton.text
+            color: "#ddef2929"
+            horizontalAlignment: Text.AlignHCenter
+            verticalAlignment: Text.AlignVCenter
+        }
+        icon.color: "#dde60f0f"
+        scale: 1.965
+        onClicked: fileDialog.open()
+    }
+
+    Image {
+        id: image
+        x: 468
+        y: 695
+        // width: 100
+        // height: 100
+        width: sourceSize.width/30
+        height: sourceSize.height/30
+        source: ""
+        scale: 6.005
+        fillMode: Image.PreserveAspectFit
+    }
+
+    Image {
+        id: image1
+        x: 1352
+        y: 695
+        width: sourceSize.width/30
+        height: sourceSize.height/30
+        // width: 100
+        // height: 100
+        source: ""
+        scale: 6.005
+        fillMode: Image.PreserveAspectFit
+    }
+
+    Text {
+        id: text2
+        x: 499
+        y: 383
+        color: "#7dd983"
+        text: qsTr("Before")
+        font.pixelSize: 12
+        scale: 3.167
+    }
+
+    Text {
+        id: text3
+        x: 1359
+        y: 382
+        color: "#7dd983"
+        text: qsTr("After")
+        font.pixelSize: 12
+        scale: 3.167
+    }
+
+    Text {
+        id: options
+        x: 180
+        y: 216
+        color: "#9dddef"
+        text: qsTr("Options")
+        font.pixelSize: 12
+        scale: 3.712
+    }
+}

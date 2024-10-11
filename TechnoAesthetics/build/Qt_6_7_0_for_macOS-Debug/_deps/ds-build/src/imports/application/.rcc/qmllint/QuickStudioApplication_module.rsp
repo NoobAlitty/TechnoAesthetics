@@ -1,0 +1,10 @@
+-I
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/qml
+-I
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/qml
+-I
+/Users/alitty/Qt/6.7.1/macos/./qml
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/_deps/ds-build/src/imports/application/.qt/rcc/qmake_QtQuick_Studio_Application.qrc
+--module
+QtQuick.Studio.Application

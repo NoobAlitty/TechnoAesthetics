@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/ds-build/src/imports",
+		"source" : "build/Qt_6_7_0_for_macOS-Debug/_deps/ds-src/src/imports"
+	}
+}

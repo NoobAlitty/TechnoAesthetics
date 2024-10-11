@@ -1,0 +1,7 @@
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/TechnoAestheticsApp_autogen/include/../UVLADIE3JM/moc_ChatClient.cpp.json
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/TechnoAestheticsApp_autogen/include/../UVLADIE3JM/moc_FileManager.cpp.json
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/TechnoAestheticsApp_autogen/include/../UVLADIE3JM/moc_NetworkManager.cpp.json
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/TechnoAestheticsApp_autogen/include/../UVLADIE3JM/moc_SignalListener.cpp.json
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/TechnoAestheticsApp_autogen/include/../UVLADIE3JM/moc_SpeechSynthesis.cpp.json
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/TechnoAestheticsApp_autogen/include/../UVLADIE3JM/moc_TaskBase.cpp.json
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/TechnoAestheticsApp_autogen/include/../UVLADIE3JM/moc_ThreadPool.cpp.json

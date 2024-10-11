@@ -1,0 +1,17 @@
+--bare
+-I
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/qml
+-I
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/qml
+-I
+/Users/alitty/Qt/6.7.1/macos/./qml
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/imports/TechnoAesthetics/.qt/rcc/qmake_TechnoAesthetics.qrc
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/imports/TechnoAesthetics/.qt/rcc/TechnoAesthetics_raw_qml_0.qrc
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/imports/TechnoAesthetics/Constants.qml
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/imports/TechnoAesthetics/DirectoryFontLoader.qml
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/imports/TechnoAesthetics/EventListModel.qml
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/imports/TechnoAesthetics/EventListSimulator.qml
+--json
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/TechnoAesthetics_qmllint.json

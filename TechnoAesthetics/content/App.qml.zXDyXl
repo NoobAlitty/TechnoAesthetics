@@ -1,0 +1,41 @@
+// Copyright (C) 2021 The Qt Company Ltd.
+// SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
+
+import QtQuick 6.2
+import TechnoAesthetics
+import QtQuick.Controls 2.15  // 导入QtQuick.Controls模块以使用StackView
+
+Window {
+    id: mainWin
+    visible: true
+    title: "TechnoAesthetics"
+    width: 720
+    height: 540
+
+    StackView {
+        id: stack
+        initialItem: Screen01 {
+        }
+        anchors.fill: parent
+    }
+    Component{
+        id: screen01Component
+        Screen01 {
+
+        }
+    }
+
+    Component {
+        id: screen02Component
+        Screen02 {
+
+        }
+    }
+    property alias stack: stack
+    property alias mainWin: mainWin
+}
+
+
+
+
+

@@ -1,0 +1,123 @@
+{
+    "classes": [
+        {
+            "className": "ImageProcessor",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "type": "SignalListener*"
+                        },
+                        {
+                            "type": "QList<int>"
+                        },
+                        {
+                            "type": "QString"
+                        },
+                        {
+                            "type": "double"
+                        },
+                        {
+                            "type": "int"
+                        },
+                        {
+                            "type": "int"
+                        },
+                        {
+                            "type": "int"
+                        },
+                        {
+                            "type": "int"
+                        },
+                        {
+                            "type": "int"
+                        },
+                        {
+                            "type": "int"
+                        }
+                    ],
+                    "name": "set",
+                    "returnType": "ImageProcessor*"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "ImageProcessor",
+            "slots": [
+                {
+                    "access": "public",
+                    "name": "zoom",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "colorSpace",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "singleChannel",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "typeConvert",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "histogram",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "binary",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "contrastRatio",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "filter",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "localBinary",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "stretch",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "compress",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "processAnswerSheet",
+                    "returnType": "ImageProcessor*"
+                },
+                {
+                    "access": "public",
+                    "name": "correct",
+                    "returnType": "ImageProcessor*"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "TaskBase"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ImageProcessor.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,95 @@
+{
+    "classes": [
+        {
+            "className": "SignalListener",
+            "object": true,
+            "qualifiedClassName": "SignalListener",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "QJsonObject"
+                        }
+                    ],
+                    "name": "signal",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "presence",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        },
+                        {
+                            "name": "content",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "isMe",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "message",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "friendId",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "friendpresence",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "QJsonObject"
+                        }
+                    ],
+                    "name": "onSignal",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "onPresence",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "SignalListener.hpp",
+    "outputRevision": 68
+}

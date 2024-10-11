@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "FlowViewplugin_autogen_timestamp_deps::@f99fd1e4b9fa497fd232"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "FlowViewplugin_autogen::@f99fd1e4b9fa497fd232",
+	"isGeneratorProvided" : true,
+	"name" : "FlowViewplugin_autogen",
+	"paths" : 
+	{
+		"build" : "_deps/ds-build/src/imports/flowview",
+		"source" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/flowview/CMakeFiles/FlowViewplugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/flowview/CMakeFiles/FlowViewplugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/flowview/FlowViewplugin_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

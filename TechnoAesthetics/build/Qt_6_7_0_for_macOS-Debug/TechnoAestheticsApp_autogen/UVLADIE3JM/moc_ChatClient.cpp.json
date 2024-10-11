@@ -1,0 +1,175 @@
+{
+    "classes": [
+        {
+            "className": "ChatClient",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "connectToServer",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "recipient",
+                            "type": "int"
+                        },
+                        {
+                            "name": "message",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "format",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "sendPrivateMessage",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "group",
+                            "type": "int"
+                        },
+                        {
+                            "name": "message",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "format",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "sendGroupMessage",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "ai",
+                            "type": "int"
+                        },
+                        {
+                            "name": "message",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "format",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "sendAiMessage",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "type",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "id",
+                            "type": "int"
+                        },
+                        {
+                            "name": "sig",
+                            "type": "SignalListener*"
+                        }
+                    ],
+                    "name": "bind",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "type",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "id",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "getIndex",
+                    "returnType": "int"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "sig",
+                            "type": "SignalListener*"
+                        }
+                    ],
+                    "name": "userSigBind",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "refreshUserInfo",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "refreshMessage",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "reStart",
+                    "returnType": "bool"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "ChatClient",
+            "slots": [
+                {
+                    "access": "private",
+                    "name": "onConnected",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "name": "onDisconnected",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "message",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "onMessageReceived",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "response",
+                            "type": "QJsonObject"
+                        }
+                    ],
+                    "name": "onAllMessageReceived",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ChatClient.hpp",
+    "outputRevision": 68
+}

@@ -1,0 +1,15 @@
+-rootPath
+/Users/alitty/Documents/GitRepo/TechnoAesthetics
+-cmake-output
+-output-file
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/.qt/qml_imports/TechnoAestheticsApp_build.cmake
+-importPath
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/qml/Main
+-importPath
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/qml
+-importPath
+/Users/alitty/Qt/6.7.1/macos/./qml
+-qrcFiles
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/.qt/rcc/configuration.qrc
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/.qt/rcc/qmake_Main.qrc
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/.qt/rcc/TechnoAestheticsApp_raw_qml_0.qrc

@@ -1,0 +1,4696 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/.qtc/package-manager/auto-setup.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/CMakeFiles/3.27.7/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6ConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6VersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtFeature.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtFeatureCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicAppleHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicPluginHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicTargetHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicTestHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicToolHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6Dependencies.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/FindWrapAtomic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/QtInstallPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CorePlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/FindWrapOpenGL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindOpenGL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBus/Qt6DBusTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/MacroAddFileDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlTools/Qt6QmlToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlTools/Qt6QmlToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlTools/Qt6QmlToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlTools/Qt6QmlToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlTools/Qt6QmlToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlBuiltins/Qt6QmlBuiltinsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlBuiltins/Qt6QmlBuiltinsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlBuiltins/Qt6QmlBuiltinsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlBuiltins/Qt6QmlBuiltinsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlBuiltins/Qt6QmlBuiltinsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlBuiltins/Qt6QmlBuiltinsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlBuiltins/Qt6QmlBuiltinsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QSCNetworkReachabilityNetworkInformationPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QSCNetworkReachabilityNetworkInformationPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QSCNetworkReachabilityNetworkInformationPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QSCNetworkReachabilityNetworkInformationPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QSecureTransportBackendPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QSecureTransportBackendPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QSecureTransportBackendPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QSecureTransportBackendPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlFindQmlscInternal.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6GraphspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6GraphspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6GraphspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6GraphspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlMetaConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlMetaTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlMetaTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlMetaAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquicklayoutspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquicklayoutspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquicklayoutspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquicklayoutspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtlabsplatformpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtlabsplatformpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtlabsplatformpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtlabsplatformpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dassetutilspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dassetutilspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dassetutilspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dassetutilspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3deffectpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3deffectpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3deffectpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3deffectpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstyleimplpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstyleimplpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstyleimplpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstyleimplpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstylepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstylepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstylepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstylepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstyleimplpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstyleimplpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstyleimplpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstyleimplpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstylepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstylepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstylepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstylepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6GraphspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlMetaConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquicklayoutspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtlabsplatformpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dassetutilspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3deffectpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstyleimplpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2iosstylepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstyleimplpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2macosstylepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugConnectorFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugConnectorFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugConnectorFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugConnectorFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugServiceFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugServiceFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugServiceFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugServiceFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQuickProfilerAdapterFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQuickProfilerAdapterFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQuickProfilerAdapterFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QQuickProfilerAdapterFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlBuildInternals.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickTools/Qt6QuickToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlModels/Qt6QmlModelsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlModels/Qt6QmlModelsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlModels/Qt6QmlModelsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlModels/Qt6QmlModelsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlModels/Qt6QmlModelsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlModels/Qt6QmlModelsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlModels/Qt6QmlModelsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QmlModels/Qt6QmlModelsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6MultimediaConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6MultimediaConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6MultimediaConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6MultimediaDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6MultimediaTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6MultimediaTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6MultimediaAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6MultimediaVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6MultimediaPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6QDarwinMediaPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6QDarwinMediaPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6QDarwinMediaPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6QDarwinMediaPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6QFFmpegMediaPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6QFFmpegMediaPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6QFFmpegMediaPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Multimedia/Qt6QFFmpegMediaPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WebSockets/Qt6WebSocketsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WebSockets/Qt6WebSocketsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WebSockets/Qt6WebSocketsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WebSockets/Qt6WebSocketsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WebSockets/Qt6WebSocketsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WebSockets/Qt6WebSocketsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WebSockets/Qt6WebSocketsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6WebSockets/Qt6WebSocketsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Graphs/Qt6GraphsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Graphs/Qt6GraphsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Graphs/Qt6GraphsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Graphs/Qt6GraphsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickWidgets/Qt6QuickWidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickWidgets/Qt6QuickWidgetsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickWidgets/Qt6QuickWidgetsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickWidgets/Qt6QuickWidgetsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickWidgets/Qt6QuickWidgetsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickWidgets/Qt6QuickWidgetsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickWidgets/Qt6QuickWidgetsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickWidgets/Qt6QuickWidgetsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3D/Qt6Quick3DConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3D/Qt6Quick3DConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3D/Qt6Quick3DConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3D/Qt6Quick3DDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DTools/Qt6Quick3DToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DTools/Qt6Quick3DToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DTools/Qt6Quick3DToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DTools/Qt6Quick3DToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DTools/Qt6Quick3DToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DTools/Qt6Quick3DToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DTools/Qt6Quick3DToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DTools/Qt6Quick3DToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DUtils/Qt6Quick3DUtilsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DUtils/Qt6Quick3DUtilsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DUtils/Qt6Quick3DUtilsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DUtils/Qt6Quick3DUtilsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DUtils/Qt6Quick3DUtilsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DUtils/Qt6Quick3DUtilsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DUtils/Qt6Quick3DUtilsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DUtils/Qt6Quick3DUtilsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderTools/Qt6ShaderToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderTools/Qt6ShaderToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderTools/Qt6ShaderToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderTools/Qt6ShaderToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderTools/Qt6ShaderToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderTools/Qt6ShaderToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderTools/Qt6ShaderToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6ShaderTools/Qt6ShaderToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Concurrent/Qt6ConcurrentDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Concurrent/Qt6ConcurrentTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Concurrent/Qt6ConcurrentTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Concurrent/Qt6ConcurrentAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Concurrent/Qt6ConcurrentVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3DRuntimeRender/Qt6Quick3DRuntimeRenderVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3D/Qt6Quick3DTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3D/Qt6Quick3DTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3D/Qt6Quick3DAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3D/Qt6Quick3DVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Quick3D/Qt6Quick3DMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickShapesPrivate/Qt6QuickShapesPrivateConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickShapesPrivate/Qt6QuickShapesPrivateConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickShapesPrivate/Qt6QuickShapesPrivateConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickShapesPrivate/Qt6QuickShapesPrivateDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickShapesPrivate/Qt6QuickShapesPrivateTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickShapesPrivate/Qt6QuickShapesPrivateTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickShapesPrivate/Qt6QuickShapesPrivateAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6QuickShapesPrivate/Qt6QuickShapesPrivateVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Graphs/Qt6GraphsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Graphs/Qt6GraphsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Graphs/Qt6GraphsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Graphs/Qt6GraphsVersionlessTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"path" : "qmlcomponents"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"path" : "qmlmodules"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"path" : "insight"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/.qt/qml_imports/TechnoAestheticsApp_conf.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakePrintHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6ConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6VersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtFeature.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtFeatureCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicAppleHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicPluginHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicTargetHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicTestHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicToolHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6Dependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6BuildInternals/QtBuildInternalsExtra.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtBuildHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/Qt3rdPartyLibraryHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtAndroidHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtAppHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtAutoDetectHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtAutogenHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtBuildInformation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtBuildOptionsHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtBuildPathsHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtBuildRepoExamplesHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtBuildRepoHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtDbusHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtDeferredDependenciesHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtDocsHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtExecutableHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtFindPackageHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtFlagHandlingHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtFrameworkHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtGlobalStateHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtHeadersClean.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtInstallHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtJavaHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtLalrHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtMkspecHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtModuleHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtNoLinkTargetHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPkgConfigHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPlatformTargetHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPluginHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPostProcessHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPrecompiledHeadersHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPriHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPrlHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtQmakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtResourceHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtRpathHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtSanitizerHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtScopeFinalizerHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtSeparateDebugInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtSimdHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtSingleRepoTargetSetBuildHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtSyncQtHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtTargetHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtTestHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtToolHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtToolchainHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtUnityBuildHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtWasmHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtWrapperScriptHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtFeature.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtFeatureCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicAppleHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicPluginHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicTargetHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicTestHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicToolHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6/QtPlatformSupport.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/components/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/components/QuickStudioComponentsplugin_QtQuick_Studio_ComponentsPlugin_in.cpp"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/effects_qt6/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_QtQuick_Studio_EffectsPlugin_in.cpp"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/flowview/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/flowview/FlowViewplugin_FlowViewPlugin_in.cpp"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/logichelper/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelperplugin_QtQuick_Studio_LogicHelperPlugin_in.cpp"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/multitext/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_QtQuick_Studio_MultiTextPlugin_in.cpp"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/tools/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/tools/eventsimulator/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulatorplugin_QtQuick_Studio_EventSimulatorPlugin_in.cpp"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/tools/eventsystem/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_QtQuick_Studio_EventSystemPlugin_in.cpp"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/application/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/application/QuickStudioApplicationplugin_QtQuick_Studio_ApplicationPlugin_in.cpp"
+		},
+		{
+			"path" : "content/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/content/contentplugin_contentPlugin_in.cpp"
+		},
+		{
+			"path" : "imports/CMakeLists.txt"
+		},
+		{
+			"path" : "imports/TechnoAesthetics/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Release/imports/TechnoAesthetics/TechnoAestheticsplugin_TechnoAestheticsPlugin_in.cpp"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release",
+		"source" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

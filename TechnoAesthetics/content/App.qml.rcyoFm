@@ -1,0 +1,35 @@
+// Copyright (C) 2021 The Qt Company Ltd.
+// SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
+
+import QtQuick 6.2
+import TechnoAesthetics
+
+Window {
+    id: mainWin
+    width: mainScreen.width
+    height: mainScreen.height
+
+    visible: true
+    title: "TechnoAesthetics"
+
+    Screen01 {
+        id: mainScreen
+    }
+
+    Screen02 {
+        id: secondScreen
+        visible: false  // 初始时保持第二个屏幕不可见
+    }
+
+    // 移动到第二个屏幕之后定义
+    Connections {
+        target: mainScreen
+        onVisibleChanged: {
+            if (!mainScreen.visible) {
+                secondScreen.visible = true;
+            }
+        }
+    }
+}
+
+

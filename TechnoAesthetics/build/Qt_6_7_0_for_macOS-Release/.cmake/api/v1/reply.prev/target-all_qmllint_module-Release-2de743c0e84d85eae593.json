@@ -1,0 +1,284 @@
+{
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"_qt_internal_add_all_qmllint_target",
+			"_qt_internal_target_enable_qmllint",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"add_dependencies",
+			"include"
+		],
+		"files" : 
+		[
+			"/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/components/CMakeLists.txt",
+			"qmlmodules",
+			"CMakeLists.txt",
+			"build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/logichelper/CMakeLists.txt",
+			"build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/application/CMakeLists.txt",
+			"content/CMakeLists.txt",
+			"imports/TechnoAesthetics/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 647,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2549,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1052,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1141,
+				"parent" : 4
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 75,
+				"parent" : 6
+			},
+			{
+				"file" : 2,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 4,
+				"parent" : 8
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 647,
+				"parent" : 9
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2549,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1052,
+				"parent" : 11
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1144,
+				"parent" : 12
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1144,
+				"parent" : 4
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 2,
+				"parent" : 15
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 647,
+				"parent" : 16
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2549,
+				"parent" : 17
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1052,
+				"parent" : 18
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1144,
+				"parent" : 19
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 5,
+				"line" : 6,
+				"parent" : 21
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 647,
+				"parent" : 22
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2302,
+				"parent" : 23
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1052,
+				"parent" : 24
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1144,
+				"parent" : 25
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 6,
+				"line" : 5,
+				"parent" : 27
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 647,
+				"parent" : 28
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2549,
+				"parent" : 29
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1052,
+				"parent" : 30
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1144,
+				"parent" : 31
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 7,
+				"line" : 10,
+				"parent" : 33
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 647,
+				"parent" : 34
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2549,
+				"parent" : 35
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1052,
+				"parent" : 36
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1144,
+				"parent" : 37
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 13,
+			"id" : "TechnoAestheticsApp_qmllint_module::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "QuickStudioComponents_qmllint_module::@b8ea75ca72e9d0096cda"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "QuickStudioLogicHelper_qmllint_module::@a133c4daf6f4e56b78b8"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "QuickStudioApplication_qmllint_module::@a324641c06033e250fc2"
+		},
+		{
+			"backtrace" : 32,
+			"id" : "content_qmllint_module::@73a38b9e525c9c2ae262"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "TechnoAesthetics_qmllint_module::@49b368ea9e1127e287d0"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets/QmlLinter"
+	},
+	"id" : "all_qmllint_module::@b8ea75ca72e9d0096cda",
+	"name" : "all_qmllint_module",
+	"paths" : 
+	{
+		"build" : "_deps/ds-build/src/imports/components",
+		"source" : "build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/components"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

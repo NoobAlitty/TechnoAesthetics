@@ -1,0 +1,34 @@
+{
+    "classes": [
+        {
+            "className": "TaskBase",
+            "object": true,
+            "qualifiedClassName": "TaskBase",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "QJsonObject"
+                        }
+                    ],
+                    "name": "taskFinished",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                },
+                {
+                    "access": "public",
+                    "name": "QRunnable"
+                }
+            ]
+        }
+    ],
+    "inputFile": "TaskBase.hpp",
+    "outputRevision": 68
+}

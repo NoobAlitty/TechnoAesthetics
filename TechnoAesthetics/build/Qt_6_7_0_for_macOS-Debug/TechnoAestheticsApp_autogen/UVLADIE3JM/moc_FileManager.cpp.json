@@ -1,0 +1,59 @@
+{
+    "classes": [
+        {
+            "className": "FileManager",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "value",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "name": "update",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "type",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "read",
+                    "returnType": "QVariant"
+                },
+                {
+                    "access": "public",
+                    "name": "assetsPath",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "name": "cachePath",
+                    "returnType": "QString"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "FileManager",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "FileManager.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Studio/Components">
+    <file alias="qmldir">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/qml/QtQuick/Studio/Components/qmldir</file>
+  </qresource>
+</RCC>
+

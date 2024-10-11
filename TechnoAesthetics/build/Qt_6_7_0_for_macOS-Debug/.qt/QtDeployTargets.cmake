@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_TechnoAestheticsApp_FILE /Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/TechnoAestheticsApp)

@@ -1,0 +1,8 @@
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/imports/TechnoAesthetics/.qt/rcc/qmake_TechnoAesthetics.qrc
+--resource
+/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Debug/imports/TechnoAesthetics/.qt/rcc/TechnoAesthetics_raw_qml_0.qrc
+/qt/qml/TechnoAesthetics/Constants.qml
+/qt/qml/TechnoAesthetics/DirectoryFontLoader.qml
+/qt/qml/TechnoAesthetics/EventListModel.qml
+/qt/qml/TechnoAesthetics/EventListSimulator.qml

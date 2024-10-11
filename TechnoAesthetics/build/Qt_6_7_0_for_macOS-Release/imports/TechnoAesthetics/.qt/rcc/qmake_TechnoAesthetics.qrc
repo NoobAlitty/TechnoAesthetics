@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TechnoAesthetics">
+    <file alias="qmldir">/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/qml/TechnoAesthetics/qmldir</file>
+  </qresource>
+</RCC>
+

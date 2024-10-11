@@ -1,0 +1,114 @@
+{
+	"BUILD_DIR" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffects_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/effects_qt6",
+	"CMAKE_EXECUTABLE" : "/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/effects_qt6/CMakeLists.txt",
+		"/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
+		"/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/Users/alitty/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_QtQuick_Studio_EffectsPlugin_in.cpp"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics",
+	"DEP_FILE" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffects_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "QuickStudioEffects_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffects_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffects_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QMLBUILTINS_LIB",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QML_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-src/src/imports/effects_qt6",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtQml.framework/Versions/A/Headers/6.7.1",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtQml.framework/Versions/A/Headers/6.7.1/QtQml",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/6.7.1",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/6.7.1/QtCore",
+		"/Users/alitty/Qt/6.7.1/macos/include/QtQmlBuiltins/6.7.1",
+		"/Users/alitty/Qt/6.7.1/macos/include/QtQmlBuiltins/6.7.1/QtQmlBuiltins",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtCore.framework/Headers",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtCore.framework",
+		"/Users/alitty/Qt/6.7.1/macos/mkspecs/macx-clang",
+		"/Users/alitty/Qt/6.7.1/macos/include",
+		"/Users/alitty/Qt/6.7.1/macos/include/QtQmlBuiltins",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtQml.framework/Headers",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtQml.framework",
+		"/Users/alitty/Qt/6.7.1/macos/include/QtQmlIntegration",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtNetwork.framework/Headers",
+		"/Users/alitty/Qt/6.7.1/macos/lib/QtNetwork.framework",
+		"/usr/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "--output-json" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/clang++",
+		"-dM",
+		"-E",
+		"-c",
+		"/Users/alitty/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffects_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/.qt/rcc/qrc_QuickStudioEffects_raw_qml_0.cpp",
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/.qt/rcc/qrc_QuickStudioEffects_raw_qml_0_init.cpp",
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/.qt/rcc/qrc_qmake_QtQuick_Studio_Effects.cpp",
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/.qt/rcc/qrc_qmake_QtQuick_Studio_Effects_init.cpp",
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/quickstudioeffects_qmltyperegistrations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/alitty/Qt/6.7.1/macos/./libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/alitty/Qt/6.7.1/macos/./libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : [],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/.qt/rcc/qrc_QuickStudioEffects_raw_qml_0.cpp",
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/.qt/rcc/qrc_QuickStudioEffects_raw_qml_0_init.cpp",
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/.qt/rcc/qrc_qmake_QtQuick_Studio_Effects.cpp",
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/.qt/rcc/qrc_qmake_QtQuick_Studio_Effects_init.cpp",
+		"/Users/alitty/Documents/GitRepo/TechnoAesthetics/build/Qt_6_7_0_for_macOS-Release/_deps/ds-build/src/imports/effects_qt6/quickstudioeffects_qmltyperegistrations.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
